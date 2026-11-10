@@ -50,7 +50,7 @@ A formação em Marketing, somada à minha experiência com design, me permite i
 ### 📂 Projetos
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Banco de dados** | Sistema da Letty Gestão Comercial que valida dados financeiros e detecta anomalias, usando escopo global/local e lógica condicional. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Banco de dados** | Sistema da Letty Gestão Comercial que valida dados financeiros e detecta anomalias, usando escopo global/local e lógica condicional. | [Ver Projeto](./Projeto_Modelagem_banco_de_dados_letty-main/) |
 
 ---
  
